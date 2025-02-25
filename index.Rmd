@@ -71,7 +71,7 @@ include_graphics("./assets/img/het.svg")
 
 ---
 
-## Loss of genetic diversity
+## Loss of genetic diversity in small populations
 
 ```{r, out.width = "100%", dpi = 300, fig.align = "center", echo = FALSE, fig.cap=""}
 include_graphics("./assets/img/drift.svg")
@@ -79,7 +79,7 @@ include_graphics("./assets/img/drift.svg")
 
 - **Small** populations lose genetic diversity faster than it is replaced by mutation
 - In **Isolated** populations variation cannot be replaced by gene flow
-- Net loss of genetic diversity
+- Increased frequency of **inbreeding** (mating between close relatives)
 
 ---
 
@@ -157,7 +157,27 @@ include_graphics("./assets/img/int.svg")
 
 --- .segue .dark 
 
+## Adder!
+
+--- &twocol
+
 ## The adder, *Vipera berus*
+
+*** =left
+
+- UK's only venomous snake
+- Family Viperidae, subfamily Viperinae
+- Medium sized viper, 40-60 cm
+- Diet: lizards, frogs and rodents
+- Solenoglyphous dentition
+- Live bearing, 8-12 neonates
+- Variable colour/pattern
+
+*** =right
+
+```{r, out.width = "85%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
+  include_graphics("./assets/img/mel_situ.jpg")
+```
 
 ---
 
@@ -201,12 +221,6 @@ include_graphics("./assets/img/int.svg")
 
 ```{r, out.width = "50%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
   include_graphics("./assets/img/cg.jpg")
-```
-
---- bg:black
-
-```{r, out.width = "50%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
-  include_graphics("./assets/img/mel_situ.jpg")
 ```
 
 --- bg:black
@@ -286,19 +300,6 @@ include_graphics("./assets/img/int.svg")
 ```{r, out.width = "90%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
   include_graphics("./assets/img/bostai.jpg")
 ```
-
----
-
-## Diet
-
-```{r, out.width = "100%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
-  include_graphics("./assets/img/diet.svg")
-```
-
-- lizards
-- frogs
-- rodents
-- subdued with venom
 
 ---
 
@@ -500,3 +501,5 @@ include_graphics("./assets/img/adder_mitsi.JPG")
 --- &thankyou
 
 ## Thank You
+
+**Hope you all adder nice day :)**

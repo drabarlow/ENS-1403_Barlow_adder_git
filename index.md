@@ -63,13 +63,13 @@ strong {
 
 ---
 
-## Loss of genetic diversity
+## Loss of genetic diversity in small populations
 
 <img src="./assets/img/drift.svg" width="100%" style="display: block; margin: auto;" />
 
 - **Small** populations lose genetic diversity faster than it is replaced by mutation
 - In **Isolated** populations variation cannot be replaced by gene flow
-- Net loss of genetic diversity
+- Increased frequency of **inbreeding** (mating between close relatives)
 
 ---
 
@@ -135,7 +135,25 @@ strong {
 
 --- .segue .dark 
 
+## Adder!
+
+--- &twocol
+
 ## The adder, *Vipera berus*
+
+*** =left
+
+- UK's only venomous snake
+- Family Viperidae, subfamily Viperinae
+- Medium sized viper, 40-60 cm
+- Diet: lizards, frogs and rodents
+- Solenoglyphous dentition
+- Live bearing, 8-12 neonates
+- Variable colour/pattern
+
+*** =right
+
+<img src="./assets/img/mel_situ.jpg" width="85%" style="display: block; margin: auto;" />
 
 ---
 
@@ -166,10 +184,6 @@ strong {
 --- bg:black
 
 <img src="./assets/img/cg.jpg" width="50%" style="display: block; margin: auto;" />
-
---- bg:black
-
-<img src="./assets/img/mel_situ.jpg" width="50%" style="display: block; margin: auto;" />
 
 --- bg:black
 
@@ -222,17 +236,6 @@ strong {
 --- bg:black
 
 <img src="./assets/img/bostai.jpg" width="90%" style="display: block; margin: auto;" />
-
----
-
-## Diet
-
-<img src="./assets/img/diet.svg" width="100%" style="display: block; margin: auto;" />
-
-- lizards
-- frogs
-- rodents
-- subdued with venom
 
 ---
 
@@ -392,3 +395,5 @@ strong {
 --- &thankyou
 
 ## Thank You
+
+**Hope you all adder nice day :)**
