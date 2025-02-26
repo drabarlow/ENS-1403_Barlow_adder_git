@@ -49,13 +49,9 @@ strong {
 - Adder!
 - Adder conservation genomics
 
-**Links to first year modules**
-
-- Conservation
-- Genetics
-- Evolution
-- Cell biology
-- Herpetology
+```{r, out.width = "100%", dpi = 300, fig.align = "center", echo = FALSE, fig.cap=""}
+include_graphics("./assets/img/juv.jpg")
+```
 
 --- .segue .dark 
 
@@ -263,12 +259,6 @@ include_graphics("./assets/img/int.svg")
 
 ```{r, out.width = "50%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
   include_graphics("./assets/img/toilet.jpg")
-```
-
---- bg:black
-
-```{r, out.width = "50%", dpi = 300, echo = FALSE, fig.align = "center", fig.cap=""}
-  include_graphics("./assets/img/car.jpg")
 ```
 
 --- bg:black

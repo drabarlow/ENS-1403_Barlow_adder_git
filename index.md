@@ -43,13 +43,7 @@ strong {
 - Adder!
 - Adder conservation genomics
 
-**Links to first year modules**
-
-- Conservation
-- Genetics
-- Evolution
-- Cell biology
-- Herpetology
+<img src="./assets/img/juv.jpg" width="100%" style="display: block; margin: auto;" />
 
 --- .segue .dark 
 
@@ -212,10 +206,6 @@ strong {
 --- bg:black
 
 <img src="./assets/img/toilet.jpg" width="50%" style="display: block; margin: auto;" />
-
---- bg:black
-
-<img src="./assets/img/car.jpg" width="50%" style="display: block; margin: auto;" />
 
 --- bg:black
 
